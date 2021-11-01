@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaneSAWM
+- 👋 Hi, I’m @JaneSakanas
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Smart Contract Development in Althash University
 - 💞️ I’m looking to collaborate on Projects that will improve my knowledge on Blockchain Development
